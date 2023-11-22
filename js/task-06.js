@@ -9,8 +9,6 @@ const btnCreate = document.querySelector("button[data-create]");
 const btnDestroy = document.querySelector("button[data-destroy]");
 const boxes = document.querySelector("#boxes");
 
-console.log(btnDestroy);
-
 const startWidth = 30;
 const startHeight = 30;
 const delta = 10;
